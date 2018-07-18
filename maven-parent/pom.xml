@@ -8,7 +8,7 @@
     <artifactId>maven-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>POM for Root</name>
+    <name>POM for Root. Test Commit</name>
 
     <modules>
         <module>maven-child</module>
